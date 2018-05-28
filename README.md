@@ -1,2 +1,0 @@
-# Pattern-recognition
-defect detection
